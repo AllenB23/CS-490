@@ -1,0 +1,15 @@
+Main topic: Encryption and cryptography
+Partner: Jorge Santos
+Basic objectives: Need to create a CTF game that will be played at the end of the semester by the Prescott campus.
+	The functionality of this CTF game is to have a system in which it hides keys that are supposed to be found/cracked by the opposition team.
+	Enemy needs to find the keys using encryption and cryptography techniques.
+	
+TO-Do: Coordinate with Jorge Santos to furthermore go in detail with this approach and determine which techniques we would like to apply to do CTF game.
+
+	Need to write or develop a program that encrypts and decrypts data functions that are being tried by the other team.
+
+	Complexity needs to be advanced but able to allow the Prescott team to hack the algorithm to obtain the keys.
+
+	Need to coordinate with Jorge to develop a map that has a timeline of what will be done for the remaining sprints.
+
+	More research for myself in the crypto and encryption field and see what techniques will be best.
